@@ -122,7 +122,7 @@ O modelo preditivo demonstrou excelente desempenho nos dados reais de validaçã
 ---
 
 ## 9. Conclusão
-O projeto **OrbitAI AgroRisk** cumpre com êxito os requisitos propostos para a Global Solution. A solução provou que a união entre algoritmos de Machine Learning e dados de sensoriamento remoto orbital é plenamente viável para prever cenários de estresse hídrico e térmico na Terra. 
+O projeto **OrbitAI AgroRisk** provou que a união entre algoritmos de Machine Learning e dados de sensoriamento remoto orbital é plenamente viável para prever cenários de estresse hídrico e térmico na Terra. 
 
 A automação do pipeline e a altíssima precisão contra falsos alarmes críticos validam a robustez do sistema como ferramenta de apoio à sustentabilidade e à segurança alimentar no agronegócio.
 
